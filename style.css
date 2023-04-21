@@ -1,0 +1,17 @@
+.slide{
+  margin-left: 125px;
+  margin-right: 125px;
+}
+.btn23{
+  border: 2px solid blue;
+  background-color: rgb(54, 103, 236);
+  border-radius: 15px;
+}
+.btna{
+  color: white;
+}
+.btna{
+  text-decoration: none;
+  font-size: larger;
+  font-weight: bold;
+}
